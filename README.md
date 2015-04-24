@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/T-Unicorn/transadvisor.png?label=ready&title=Ready)](https://waffle.io/T-Unicorn/transadvisor)
 TransAdvisor
 ============
 
